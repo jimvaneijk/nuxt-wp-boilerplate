@@ -1,0 +1,7 @@
+{
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": true,
+    "prettier.documentSelectors": [
+        "**/*.{ts,js,vue}"
+    ]
+}

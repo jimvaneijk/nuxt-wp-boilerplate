@@ -13,6 +13,7 @@
           Documentation
         </a>
         <a
+      
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           rel="noopener noreferrer"
